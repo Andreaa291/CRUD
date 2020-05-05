@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bb2ffa2-85a4-456f-9782-abf3be80cd0c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1Yc2GwnjnDVnaTeiSoVt8T5ULdO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Factoria\WheelOfDoom\src" />
+      <recent name="D:\Factoria\WheelOfDoom\tests" />
+      <recent name="D:\" />
+      <recent name="C:\Users\Factoria F5\Downloads" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.FizzbuzzTest.test">
+    <configuration name="fizzbuzzTest.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/onatsu-katafizzbuzzp1850-ffa1939579e9/fizzbuzzTest.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="FizzbuzzTest.test" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.2" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner class="FizzbuzzTest" configuration_file="$PROJECT_DIR$/phpunit.xml" directory="$PROJECT_DIR$/tests" file="$PROJECT_DIR$/tests/fizzbuzzTest.php" method="test" use_alternative_configuration_file="true" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.fizzbuzzTest.php" />
+      <item itemvalue="PHPUnit.FizzbuzzTest.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.FizzbuzzTest.test" />
+        <item itemvalue="JavaScript Debug.fizzbuzzTest.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bb2ffa2-85a4-456f-9782-abf3be80cd0c" name="Default Changelist" comment="" />
+      <created>1583227469580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583227469580</updated>
+      <workItem from="1583227470939" duration="643000" />
+      <workItem from="1583232319036" duration="11521000" />
+      <workItem from="1583336742669" duration="63000" />
+      <workItem from="1583401487219" duration="3631000" />
+      <workItem from="1583600109433" duration="1752000" />
+      <workItem from="1583692662613" duration="570000" />
+      <workItem from="1583694881263" duration="1426000" />
+      <workItem from="1583738696740" duration="6284000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="227" y="38" key="#CLI_Interpreters" timestamp="1583740951427">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="227" y="38" key="#CLI_Interpreters/0.0.1280.760@0.0.1280.760" timestamp="1583740951427" />
+    <state x="311" y="44" width="645" height="690" key="#FizzbuzzTest.test" timestamp="1583740981709">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="311" y="44" width="620" height="716" key="#FizzbuzzTest.test/0.0.1280.760@0.0.1280.760" timestamp="1583740981709" />
+    <state x="438" y="35" width="645" height="690" key="#FizzbuzzTest.test/0.0.1366.728@0.0.1366.728" timestamp="1583695529380" />
+    <state x="235" y="36" key="#Test_Frameworks" timestamp="1583695526437">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="220" y="38" key="#Test_Frameworks/0.0.1280.760@0.0.1280.760" timestamp="1583244835100" />
+    <state x="235" y="36" key="#Test_Frameworks/0.0.1366.728@0.0.1366.728" timestamp="1583695526437" />
+    <state x="94" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583742251952">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="94" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1583742251952" />
+    <state x="420" y="138" key="FileChooserDialogImpl" timestamp="1583740958963">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="420" y="138" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1583740958963" />
+    <state x="448" y="132" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583695494011" />
+    <state width="1237" height="189" key="GridCell.Tab.0.bottom" timestamp="1583745108653">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1583745108653" />
+    <state width="1237" height="189" key="GridCell.Tab.0.center" timestamp="1583745108653">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1583745108653" />
+    <state width="1237" height="189" key="GridCell.Tab.0.left" timestamp="1583745108653">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1583745108653" />
+    <state width="1237" height="189" key="GridCell.Tab.0.right" timestamp="1583745108653">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1583745108653" />
+    <state x="141" y="22" key="SettingsEditor" timestamp="1583401604131">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="141" y="22" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1583401604131" />
+    <state x="348" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1583738702071">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="348" y="207" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1583738702071" />
+    <state x="371" y="198" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583600115709" />
+    <state x="362" y="298" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1583336801980">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="362" y="298" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1280.760@0.0.1280.760" timestamp="1583336801980" />
+  </component>
+</project>
